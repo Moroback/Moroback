@@ -8,13 +8,6 @@ J'ai 16 ans et je suis passionné par le developpement !
 
 ---
 
-## ⚡ Statis
-
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=ssl3p\&show_icons=true\&theme=radical)
-![Langages principaux](https://github-readme-stats.vercel.app/api/top-langs/?username=ssl3p\&layout=compact\&theme=radical)
-
----
-
 ## 🛠️ Compétences & Outils
 
 * **Languages :** Lua, JavaScript, Python
