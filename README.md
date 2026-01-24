@@ -1,17 +1,17 @@
-# 👋 Bonjour, je m'appelle ssl3p
+# 👋 Bonjour, je m'appelle Sleep
 
-J'ai 16 ans et je suis passionné par le developpement !
+J'ai 17 ans et je suis passionné par le developpement !
 
-* 🔭 Je suis **Développeur Lua** depuis 6 ans
+* 🔭 Je suis **Développeur Lua** depuis 7 ans
 * 🌱 Mon objectif est d'**apprendre toujours plus**
-* 🔩 **Projet en cours :** ***https://sleepdev.me***
+* 🔩 **Projet en cours :** ***https://sera-studio.fr***
 
 ---
 
 ## 🛠️ Compétences & Outils
 
-* **Languages :** Lua, JavaScript, Python
-* **Frameworks / Plateformes :** Garry's Mod, FiveM, Bots Discord
+* **Languages :** Lua, JavaScript
+* **Frameworks / Plateformes :** FiveM, Bots Discord
 * **Autres :** Développement web, conception UI
 
 ---
@@ -19,7 +19,7 @@ J'ai 16 ans et je suis passionné par le developpement !
 ## 📫 Contact
 
 * Discord : `ssl3p`
-* Portfolio / Projets : [Portfolio](https://discord.gg/FJZK9fkwzz)
+* Portfolio / Projets : [Portfolio](https://portfolio.sleepdev.me)
 
 <!---
 Sleep est un dépôt ✨ spécial ✨ car son `README.md` (ce fichier) apparaît sur votre profil GitHub.
