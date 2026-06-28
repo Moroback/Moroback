@@ -20,8 +20,3 @@ J'ai 17 ans et je suis passionné par le developpement !
 
 * Discord : `ssl3p`
 * Portfolio / Projets : [Portfolio](https://discord.gg/sera-studio)
-
-<!---
-Sleep est un dépôt ✨ spécial ✨ car son `README.md` (ce fichier) apparaît sur votre profil GitHub.
-Vous pouvez cliquer sur le lien Aperçu pour voir vos modifications.
---->
